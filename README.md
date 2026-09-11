@@ -5,8 +5,10 @@ Student Details
 Full Name: Deepali Ladhar
 CCID: dladhar
 
-References and Resources
-NA
+References and Resources:
 
-Verbal Collaboration
+https://developer.android.com/courses/android-basics-compose/course?hl=en
+
+Verbal Collaboration:
+
 NA
